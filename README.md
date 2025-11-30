@@ -4,6 +4,6 @@
 
 ## Accessories
 - **Headphones:** Razer BlackShark V2 X  
-- **Microphone:** HyperX Solocast  
+- **Microphone:** HyperX SoloCast  
 - **Mouse:** Logitech G102  
 - **Keyboard:** RK M75  
