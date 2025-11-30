@@ -1,6 +1,6 @@
 # xelframe (bhzrd_, semkapc, semka)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xelframe&show_icons=true&theme=codeSTACKr)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xelframe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Accessories
 - **Headphones:** Razer BlackShark V2 X  
