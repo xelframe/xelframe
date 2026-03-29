@@ -10,4 +10,3 @@
 ### Forgejo: https://cat.fs.tlpteam.ru/git
 
 <img src="https://github.com/user-attachments/assets/f407ceb9-97ee-49cb-9098-8cb44f8d3d38" width="200">
-[![GitHub Stats](https://ghstats.dev/api/card?username=xelframe)](https://github.com/rowkav09/GitHub-profile-stats)
